@@ -7,5 +7,5 @@ Camouflage Object Masking has several applications across varied fields includin
 ## Details
 The primary framework that is used is <b>PyTorch</b>. To run the code, download the Images and Masks folders from the repository. The paths used in the code are specifically for my PC. Please make changes in the code accordingly <br>
 
-##Outputs
+## Outputs
 Observe the last 2 cells of the evaluation model code and make changes accordingly to control how many images you want to display and for how long
